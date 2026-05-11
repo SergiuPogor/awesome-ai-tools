@@ -1,40 +1,50 @@
-<div style="text-align: center;">
-    <h2 style="margin-top: 0">Awesome AI Tools</h2>
-    <div>🤖 Finding the AI tools you need!</div>
-</div>
+# Awesome AI Tools
+
+🤖 Finding the AI tools you need!
+
+---
+
+💡 **WiseMindAI**  
+A local-first AI assistant for learning and knowledge management. Import & analyze documents, manage notes and cards, create AI exams, and save web content efficiently.  
+🔗 [https://wisemindai.app](https://wisemindai.app)
+
+💡 **ChatTOC**  
+Add table-of-contents, search, bookmarks, and export to long AI chats. Browse and jump through conversations like a document outline.  
+🔗 [https://chattoc.aichris.cc/](https://chattoc.aichris.cc/)
 
 <hr />
 
-- [1. 📷 Image \& Art Generation](#1--image--art-generation)
-- [2. ✍️ Writing](#2-️-writing)
-- [3. 💻 Dev](#3--dev)
-- [4. 👔 Business](#4--business)
-- [5. 🎥 Video](#5--video)
-- [6. 🎨 Design](#6--design)
-- [7. 📷 Image Editing](#7--image-editing)
-- [8. 🗣️ Text \& Speech](#8-️-text--speech)
-- [9. 💬 Chatbots](#9--chatbots)
-- [10. 📚 Research \& Education](#10--research--education)
-- [11. 🧑 Avatars \& Profile Pics](#11--avatars--profile-pics)
-- [12. 🎙 Audio \& Voice](#12--audio--voice)
-- [13. 🤝 Team \& Work](#13--team--work)
-- [14. 📱 Social Media](#14--social-media)
-- [15. 🤹‍♀️ Fun, Gifts \& Cards](#15-️-fun-gifts--cards)
-- [16. 🔎 SEO \& Searching](#16--seo--searching)
-- [17. 🧑‍💼 Job \& Career](#17--job--career)
-- [18. 🎓 Notes \& Studying](#18--notes--studying)
-- [19. 🎹 Music \& Lyrics](#19--music--lyrics)
-- [20. 📥 Emails](#20--emails)
-- [21. ❓ Q \& A](#21--q--a)
-- [22. 🧚 Stories \& Kids](#22--stories--kids)
-- [23. 💡 Idea Generation](#23--idea-generation)
-- [24. 🛍️ eCommerce](#24-️-ecommerce)
-- [25. 🕹 Gaming](#25--gaming)
-- [26. 🏠 Home \& Architecture](#26--home--architecture)
-- [27. ✏️ Drawing \& Cartoons](#27-️-drawing--cartoons)
-- [28. 💳 Finance](#28--finance)
-- [29. 👜 Fashion \& Style](#29--fashion--style)
-- [30. 💌 Dating \& Relationships](#30--dating--relationships)
+- [Awesome AI Tools](#awesome-ai-tools)
+  - [1. 📷 Image \& Art Generation](#1--image--art-generation)
+  - [2. ✍️ Writing](#2-️-writing)
+  - [3. 💻 Dev](#3--dev)
+  - [4. 👔 Business](#4--business)
+  - [5. 🎥 Video](#5--video)
+  - [6. 🎨 Design](#6--design)
+  - [7. 📷 Image Editing](#7--image-editing)
+  - [8. 🗣️ Text \& Speech](#8-️-text--speech)
+  - [9. 💬 Chatbots](#9--chatbots)
+  - [10. 📚 Research \& Education](#10--research--education)
+  - [11. 🧑 Avatars \& Profile Pics](#11--avatars--profile-pics)
+  - [12. 🎙 Audio \& Voice](#12--audio--voice)
+  - [13. 🤝 Team \& Work](#13--team--work)
+  - [14. 📱 Social Media](#14--social-media)
+  - [15. 🤹‍♀️ Fun, Gifts \& Cards](#15-️-fun-gifts--cards)
+  - [16. 🔎 SEO \& Searching](#16--seo--searching)
+  - [17. 🧑‍💼 Job \& Career](#17--job--career)
+  - [18. 🎓 Notes \& Studying](#18--notes--studying)
+  - [19. 🎹 Music \& Lyrics](#19--music--lyrics)
+  - [20. 📥 Emails](#20--emails)
+  - [21. ❓ Q \& A](#21--q--a)
+  - [22. 🧚 Stories \& Kids](#22--stories--kids)
+  - [23. 💡 Idea Generation](#23--idea-generation)
+  - [24. 🛍️ eCommerce](#24-️-ecommerce)
+  - [25. 🕹 Gaming](#25--gaming)
+  - [26. 🏠 Home \& Architecture](#26--home--architecture)
+  - [27. ✏️ Drawing \& Cartoons](#27-️-drawing--cartoons)
+  - [28. 💳 Finance](#28--finance)
+  - [29. 👜 Fashion \& Style](#29--fashion--style)
+  - [30. 💌 Dating \& Relationships](#30--dating--relationships)
 
 ## 1. <a name='ImageArtGeneration'></a>📷 Image & Art Generation
 
@@ -62,217 +72,217 @@
 
 12. [AI Images - Text to Art](https://apps.apple.com/us/app/ai-images-text-to-art/id1659289205) 👉 Introducing AI Image Generator, the free app that allows you to create stunning images and art with just a single text prompt.
 
-12. [AI Personalized Children's Book](https://imajinn.ai/storybook/) 👉 Create a beautiful custom children's book featuring AI generated images of your child.
+13. [AI Personalized Children's Book](https://imajinn.ai/storybook/) 👉 Create a beautiful custom children's book featuring AI generated images of your child.
 
-13. [AI Photo](https://ixeau.com/ai-photo/) 👉 Stable Diffusion Text-to-Image
+14. [AI Photo](https://ixeau.com/ai-photo/) 👉 Stable Diffusion Text-to-Image
 
-14. [AI Picasso](https://aipicasso.studio.site/) 👉 Create Amazing artwork with Powerful AI! It generates an image from the text you enter, just as you expect using an AI called Stable Diffusion. Let's enjoy making art with AI!
+15. [AI Picasso](https://aipicasso.studio.site/) 👉 Create Amazing artwork with Powerful AI! It generates an image from the text you enter, just as you expect using an AI called Stable Diffusion. Let's enjoy making art with AI!
 
-15. [AI Pokemon generator](https://nokemon.eloie.tech/) 👉 Generate Fakemon using AI
+16. [AI Pokemon generator](https://nokemon.eloie.tech/) 👉 Generate Fakemon using AI
 
-16. [AI Profile Pictures](https://www.aiprofilepictures.com/) 👉 Generate 200+ AI-enhanced photos of yourself
+17. [AI Profile Pictures](https://www.aiprofilepictures.com/) 👉 Generate 200+ AI-enhanced photos of yourself
 
-17. [AI Puppy](https://imagined-with.ai/ai-puppy) 👉 Turn your dog into a unique piece of art.
+18. [AI Puppy](https://imagined-with.ai/ai-puppy) 👉 Turn your dog into a unique piece of art.
 
-18. [AI Puppy](https://apps.apple.com/be/app/ai-puppy/id1659610716) 👉 With AI Puppy, you can create 120 unique new photos of your dog!
+19. [AI Puppy](https://apps.apple.com/be/app/ai-puppy/id1659610716) 👉 With AI Puppy, you can create 120 unique new photos of your dog!
 
-19. [AI Wall Decor](https://aiwalldecor.com/) 👉 Hydrogen
+20. [AI Wall Decor](https://aiwalldecor.com/) 👉 Hydrogen
 
-20. [AI Wallpapers Generator](https://apps.apple.com/app/ai-wallpapers-generator/id1662227892) 👉 Welcome to the AI Wallpaper Generator!  With this app, you can create your own unique wallpapers using artificial intelligence and a text prompt of your choice.
+21. [AI Wallpapers Generator](https://apps.apple.com/app/ai-wallpapers-generator/id1662227892) 👉 Welcome to the AI Wallpaper Generator!  With this app, you can create your own unique wallpapers using artificial intelligence and a text prompt of your choice.
 
-21. [AI2image](https://www.ai2image.com/) 👉 AI2image creates your custom image in just a few seconds
+22. [AI2image](https://www.ai2image.com/) 👉 AI2image creates your custom image in just a few seconds
 
-22. [AI2image](https://www.ai2image.com/) 👉 Generate the best images online with Free AI Image Generator by AI2image. Use AI to generate high-quality images of any size and style you want!
+23. [AI2image](https://www.ai2image.com/) 👉 Generate the best images online with Free AI Image Generator by AI2image. Use AI to generate high-quality images of any size and style you want!
 
-23. [AiBERT](http://aibert.co/) 👉 Generate ChatGPT & MidJourney images directly via WhatsApp
+24. [AiBERT](http://aibert.co/) 👉 Generate ChatGPT & MidJourney images directly via WhatsApp
 
-24. [Aiblocks](https://aiblocks.app/) 👉 AiBlocks
+25. [Aiblocks](https://aiblocks.app/) 👉 AiBlocks
 
-25. [Aiby](https://apps.apple.com/us/app/aiby-ai-art-avatar-generator/id1642969698) 👉 Want to create mesmerizing artwork? Or looking for a way to visualize your wildest ideas? Aiby has got you covered! This art generator creates unique images based on text prompts.
+26. [Aiby](https://apps.apple.com/us/app/aiby-ai-art-avatar-generator/id1642969698) 👉 Want to create mesmerizing artwork? Or looking for a way to visualize your wildest ideas? Aiby has got you covered! This art generator creates unique images based on text prompts.
 
-26. [AIGraphics](https://aigraphics.io/) 👉 Generate Graphics In Seconds Using AI
+27. [AIGraphics](https://aigraphics.io/) 👉 Generate Graphics In Seconds Using AI
 
-27. [AIimages](https://aiimag.es/) 👉 Free&Easy Text2Image AI
+28. [AIimages](https://aiimag.es/) 👉 Free&Easy Text2Image AI
 
-28. [Airbrush](https://www.airbrush.ai/) 👉 With Airbrush's AI technology, you can create original stock photos, NFTs, art, and more - in just seconds.
+29. [Airbrush](https://www.airbrush.ai/) 👉 With Airbrush's AI technology, you can create original stock photos, NFTs, art, and more - in just seconds.
 
-29. [AISEO / AISEO ART](https://aiseo.ai/) 👉 Turn your imagination into amazing art and inspiring new pictures in a fraction of a second.
+30. [AISEO / AISEO ART](https://aiseo.ai/) 👉 Turn your imagination into amazing art and inspiring new pictures in a fraction of a second.
 
-30. [Amazing AI](https://sindresorhus.com/amazing-ai) 👉 Generate images from text using Stable Diffusion
+31. [Amazing AI](https://sindresorhus.com/amazing-ai) 👉 Generate images from text using Stable Diffusion
 
-31. [Amazing.photos](https://amazing.photos/) 👉 Create amazing profile photos with AI
+32. [Amazing.photos](https://amazing.photos/) 👉 Create amazing profile photos with AI
 
-32. [AnimeMaker](https://animediffusion.graydient.ai/) 👉 AI Anime Maker /// AI Anime Maker / AnimeMaker.net
+33. [AnimeMaker](https://animediffusion.graydient.ai/) 👉 AI Anime Maker /// AI Anime Maker / AnimeMaker.net
 
-33. [Anonymizer](https://generated.photos/anonymizer) 👉 Protect your identity with generative media
+34. [Anonymizer](https://generated.photos/anonymizer) 👉 Protect your identity with generative media
 
-34. [Apeture (by Lexica)](https://lexica.art/aperture) 👉 Generate photorealistic images with Lexica Aperture.
+35. [Apeture (by Lexica)](https://lexica.art/aperture) 👉 Generate photorealistic images with Lexica Aperture.
 
-35. [ArtBot.ai](https://artbot.ai/) 👉 ArtBot.ai - Let AI create your perfect Halloween art
+36. [ArtBot.ai](https://artbot.ai/) 👉 ArtBot.ai - Let AI create your perfect Halloween art
 
-36. [Artbreeder](https://www.artbreeder.com/) 👉 Craft AI art like never before
+37. [Artbreeder](https://www.artbreeder.com/) 👉 Craft AI art like never before
 
-37. [Article2Image](https://www.stockai.com/tools/article-to-featured-image) 👉 High-quality, 100% AI-generated photos. Use in any project without worry about attribution.
+38. [Article2Image](https://www.stockai.com/tools/article-to-featured-image) 👉 High-quality, 100% AI-generated photos. Use in any project without worry about attribution.
 
-38. [ArtPrint](https://artprint.co/pages/generate/) 👉 ArtPrint
+39. [ArtPrint](https://artprint.co/pages/generate/) 👉 ArtPrint
 
-39. [Artroom](https://artroom.ai/download-app) 👉 ArtRoom AI
+40. [Artroom](https://artroom.ai/download-app) 👉 ArtRoom AI
 
-40. [Artshop](https://artshops.xyz/) 👉 Create AI art and make it your wall art
+41. [Artshop](https://artshops.xyz/) 👉 Create AI art and make it your wall art
 
-41. [Artshop](https://artshops.xyz/) 👉 Artshop brings amazing AI artworks to wall arts in your home and create welcoming addition to your beautiful home.
+42. [Artshop](https://artshops.xyz/) 👉 Artshop brings amazing AI artworks to wall arts in your home and create welcoming addition to your beautiful home.
 
-42. [ARTSIO](https://artsio.xyz/) 👉 Search and get inspired by millions of art images from Stable Diffusion, Midjourney, DALL-E
+43. [ARTSIO](https://artsio.xyz/) 👉 Search and get inspired by millions of art images from Stable Diffusion, Midjourney, DALL-E
 
-43. [ARTSIO](https://artsio.xyz/) 👉 Discover, inspire, and create AI generated images
+44. [ARTSIO](https://artsio.xyz/) 👉 Discover, inspire, and create AI generated images
 
-44. [ARTSMART](https://artsmart.ai/) 👉 ARTSMART AI
+45. [ARTSMART](https://artsmart.ai/) 👉 ARTSMART AI
 
-45. [AssetsAI](https://www.assetsai.art/) 👉 AI-powered, unique & curated assets for your games
+46. [AssetsAI](https://www.assetsai.art/) 👉 AI-powered, unique & curated assets for your games
 
-46. [Astria](https://www.astria.ai/) 👉 Tailor-made AI image generation
+47. [Astria](https://www.astria.ai/) 👉 Tailor-made AI image generation
 
-47. [Auto Draw](https://www.autodraw.com/) 👉 Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast.
+48. [Auto Draw](https://www.autodraw.com/) 👉 Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast.
 
-48. [AutoRetouch](https://www.autoretouch.com/) 👉 The AI powered image editing platform
+49. [AutoRetouch](https://www.autoretouch.com/) 👉 The AI powered image editing platform
 
-49. [Avatar Al](https://avatarai.me/) 👉 Create your own Al-generated avatars
+50. [Avatar Al](https://avatarai.me/) 👉 Create your own Al-generated avatars
 
-50. [AVCLabs Photo Enhancer AI Online](https://avc.ai/) 👉 Get A Better Photo Quality with the Power of AI
+51. [AVCLabs Photo Enhancer AI Online](https://avc.ai/) 👉 Get A Better Photo Quality with the Power of AI
 
-51. [B^ DISCOVER](https://bdiscover.kakaobrain.com/) 👉 You will have a new experience of discovering your story in images.
+52. [B^ DISCOVER](https://bdiscover.kakaobrain.com/) 👉 You will have a new experience of discovering your story in images.
 
-52. [Baseten](https://app.baseten.co/apps/1Bbgjg0/operator_views/6PJApo0) 👉 Baseten is a serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
+53. [Baseten](https://app.baseten.co/apps/1Bbgjg0/operator_views/6PJApo0) 👉 Baseten is a serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
 
-53. [Bgeraser](https://bgeraser.com/) 👉 Looking for an easy way to remove unwanted objects or backgrounds from your pictures? Look no further than Bgeraser!
+54. [Bgeraser](https://bgeraser.com/) 👉 Looking for an easy way to remove unwanted objects or backgrounds from your pictures? Look no further than Bgeraser!
 
-54. [Blackink](https://blackink.ai/) 👉 Create your own unique flash tattoo in seconds.
+55. [Blackink](https://blackink.ai/) 👉 Create your own unique flash tattoo in seconds.
 
-55. [Blimey](https://blimeycreate.com/) 👉 Blimey is an ai image generator where you can go from idea to reality in a minute. With full control over composition, colors and style.
+56. [Blimey](https://blimeycreate.com/) 👉 Blimey is an ai image generator where you can go from idea to reality in a minute. With full control over composition, colors and style.
 
-56. [Bloomoon](https://www.bloomoon.art/) 👉 Discover unique AI-generated paintings at bloomoon.
+57. [Bloomoon](https://www.bloomoon.art/) 👉 Discover unique AI-generated paintings at bloomoon.
 
-57. [BlueWillow](https://www.bluewillow.ai/) 👉 Simply enter a prompt and let our tool do the rest. From logos and graphics to digital artwork and more, our tool can generate a wide range of images that are perfect for any project.
+58. [BlueWillow](https://www.bluewillow.ai/) 👉 Simply enter a prompt and let our tool do the rest. From logos and graphics to digital artwork and more, our tool can generate a wide range of images that are perfect for any project.
 
-58. [Bria](https://bria.ai/) 👉 Integrate Bria’s AI-powered API to automate and scale the creation of video and images.
+59. [Bria](https://bria.ai/) 👉 Integrate Bria’s AI-powered API to automate and scale the creation of video and images.
 
-59. [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475) 👉 The apply implements the vision of AI4MI: Artificial Intelligence for Mobile Individuals.
+60. [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475) 👉 The apply implements the vision of AI4MI: Artificial Intelligence for Mobile Individuals.
 
-60. [CF Spark](https://www.creativefabrica.com/spark/) 👉 The CF Spark family offers a suite of AI tools that will allow you to ignite your creative spark in just a few clicks.
+61. [CF Spark](https://www.creativefabrica.com/spark/) 👉 The CF Spark family offers a suite of AI tools that will allow you to ignite your creative spark in just a few clicks.
 
-61. [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) 👉 A tool that allows you to create incredibly realistic images with the help of AI.
+62. [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) 👉 A tool that allows you to create incredibly realistic images with the help of AI.
 
-62. [Clipstudio](https://www.clipstudio.net/en/) 👉 Ultimate app for illustration, animation, manga, & webtoons. Create on Windows, macOS, iPad, iPhone, Android, & Chromebook.
+63. [Clipstudio](https://www.clipstudio.net/en/) 👉 Ultimate app for illustration, animation, manga, & webtoons. Create on Windows, macOS, iPad, iPhone, Android, & Chromebook.
 
-63. [Colourlab](https://www.colourlab.ai/) 👉 Colourlab AI makes color grading fast, easy and simple by automating color-matching and balancing thanks to new and groundbreaking Artificial Intelligence-powered tools.
+64. [Colourlab](https://www.colourlab.ai/) 👉 Colourlab AI makes color grading fast, easy and simple by automating color-matching and balancing thanks to new and groundbreaking Artificial Intelligence-powered tools.
 
-64. [CoolAIid](https://coolaiid.com/) 👉 Generate interior design ideas, virtual staging, and let you decorate your home.
+65. [CoolAIid](https://coolaiid.com/) 👉 Generate interior design ideas, virtual staging, and let you decorate your home.
 
-65. [Craiyon](https://www.craiyon.com/) 👉 Free online AI image generator from text
+66. [Craiyon](https://www.craiyon.com/) 👉 Free online AI image generator from text
 
-66. [Craiyon](https://www.craiyon.com/) 👉 Craiyon is an AI model that can draw images from any text prompt!
+67. [Craiyon](https://www.craiyon.com/) 👉 Craiyon is an AI model that can draw images from any text prompt!
 
-67. [Creator: AI Generated Art](https://apps.apple.com/us/app/creator-ai-generated-art/id6444194055) 👉 the world of AI-generated art - with no ads ever.
+68. [Creator: AI Generated Art](https://apps.apple.com/us/app/creator-ai-generated-art/id6444194055) 👉 the world of AI-generated art - with no ads ever.
 
-68. [DALL-E 2](https://openai.com/dall-e-2/) 👉 Create realistic images and art from a description in natural language
+69. [DALL-E 2](https://openai.com/dall-e-2/) 👉 Create realistic images and art from a description in natural language
 
-69. [Dall·E](https://openai.com/dall-e-2/) 👉 DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
+70. [Dall·E](https://openai.com/dall-e-2/) 👉 DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
 
-70. [Deep Anime](https://deepanime.software/#/) 👉 Deep Anime: AI Art Generator
+71. [Deep Anime](https://deepanime.software/#/) 👉 Deep Anime: AI Art Generator
 
-71. [Deep Art Effects](https://www.deeparteffects.com/) 👉 Allows you to easily and innovatively edit images using artificial intelligence.
+72. [Deep Art Effects](https://www.deeparteffects.com/) 👉 Allows you to easily and innovatively edit images using artificial intelligence.
 
-72. [Deep Dream Generator](https://deepdreamgenerator.com/) 👉 Create inspiring visual content in a collaboration with our AI enabled tools
+73. [Deep Dream Generator](https://deepdreamgenerator.com/) 👉 Create inspiring visual content in a collaboration with our AI enabled tools
 
-73. [Deep Nostalgia](https://www.myheritage.ro/deep-nostalgia) 👉 MyHeritage Deep Nostalgia™, tehnologie de reconstituire video pentru animarea chipurilor din fotografiile statice și de creare de imagini video realiste și de înaltă calitate.
+74. [Deep Nostalgia](https://www.myheritage.ro/deep-nostalgia) 👉 MyHeritage Deep Nostalgia™, tehnologie de reconstituire video pentru animarea chipurilor din fotografiile statice și de creare de imagini video realiste și de înaltă calitate.
 
-74. [Deepdreamgenerator](https://deepdreamgenerator.com/) 👉 Trending Dreams | Deep Dream Generator
+75. [Deepdreamgenerator](https://deepdreamgenerator.com/) 👉 Trending Dreams | Deep Dream Generator
 
-75. [Designedbyai](https://www.designedbyai.art/login) 👉 Application Error
+76. [Designedbyai](https://www.designedbyai.art/login) 👉 Application Error
 
-76. [Designer Clone AI](https://stockimg.ai/designer-clone-ai) 👉 This Book Covers Designed By AI
+77. [Designer Clone AI](https://stockimg.ai/designer-clone-ai) 👉 This Book Covers Designed By AI
 
-77. [Dezgo](https://dezgo.com/) 👉 Generate high-quality images from any text prompt. Let the AI draw!
+78. [Dezgo](https://dezgo.com/) 👉 Generate high-quality images from any text prompt. Let the AI draw!
 
-78. [Diffuse the Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) 👉 Discover amazing ML apps made by the community
+79. [Diffuse the Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) 👉 Discover amazing ML apps made by the community
 
-79. [Diffusion Bee](https://diffusionbee.com/) 👉 DiffusionBee is the easiest way to generate AI art on your computer with Stable Diffusion. Completely free of charge.
+80. [Diffusion Bee](https://diffusionbee.com/) 👉 DiffusionBee is the easiest way to generate AI art on your computer with Stable Diffusion. Completely free of charge.
 
-80. [Diffusion Land](https://diffusion.land/) 👉 Generated images with 1-click, using any model of your choice.
+81. [Diffusion Land](https://diffusion.land/) 👉 Generated images with 1-click, using any model of your choice.
 
-81. [Diffusion Land](https://www.diffusion.land/) 👉 Generated images with 1-click, using any model of your choice.
+82. [Diffusion Land](https://www.diffusion.land/) 👉 Generated images with 1-click, using any model of your choice.
 
-82. [Diffusion Wallpaper](https://apps.apple.com/us/app/diffusion-wallpaper/id1663805511) 👉 Generate desktop wallpapers with the power of AI Diffusion models. All generation is local so you can create wallpapers without limit!
+83. [Diffusion Wallpaper](https://apps.apple.com/us/app/diffusion-wallpaper/id1663805511) 👉 Generate desktop wallpapers with the power of AI Diffusion models. All generation is local so you can create wallpapers without limit!
 
-83. [DiscoDiffusion](http://discodiffusion.com/) 👉 Disco Diffusion v5.7 [Now with MiDaS (3D mode) not being broken] - Colaboratory
+84. [DiscoDiffusion](http://discodiffusion.com/) 👉 Disco Diffusion v5.7 [Now with MiDaS (3D mode) not being broken] - Colaboratory
 
-84. [Discord Diffusion](https://autocode.com/stabilityai/templates/discord-diffusion/) 👉 Install Discord Diffusion: Bot for image generation via Stable Diffusion on Autocode
+85. [Discord Diffusion](https://autocode.com/stabilityai/templates/discord-diffusion/) 👉 Install Discord Diffusion: Bot for image generation via Stable Diffusion on Autocode
 
-85. [DRAI](https://apps.apple.com/us/app/drai-ai-image-generator/id1643729769) 👉 Create your own masterpieces just through detailed description! Within seconds AI generates an artwork based on your prompt. Enjoy!
+86. [DRAI](https://apps.apple.com/us/app/drai-ai-image-generator/id1643729769) 👉 Create your own masterpieces just through detailed description! Within seconds AI generates an artwork based on your prompt. Enjoy!
 
-86. [Draw Things](https://draw.nnc.ai/) 👉 Draw Things: AI-assisted Image Generation
+87. [Draw Things](https://draw.nnc.ai/) 👉 Draw Things: AI-assisted Image Generation
 
-87. [Draw Things: AI Generation](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820) 👉 Draw Things is a AI-assisted image generation tool to help you create images you have in mind in minutes rather than days. Master the cast spells and your Mac will draw what you want with a few simple words.
+88. [Draw Things: AI Generation](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820) 👉 Draw Things is a AI-assisted image generation tool to help you create images you have in mind in minutes rather than days. Master the cast spells and your Mac will draw what you want with a few simple words.
 
-88. [Dream](https://dream.ai/) 👉 Create beautiful artwork using the power of AI. Enter a prompt, pick an art style and watch WOMBO Dream turn your idea into an AI-powered painting in seconds.
+89. [Dream](https://dream.ai/) 👉 Create beautiful artwork using the power of AI. Enter a prompt, pick an art style and watch WOMBO Dream turn your idea into an AI-powered painting in seconds.
 
-89. [Dream By Wombo](https://www.wombo.art/) 👉 High Quality Artwork In Seconds
+90. [Dream By Wombo](https://www.wombo.art/) 👉 High Quality Artwork In Seconds
 
-90. [Dreambooth](https://dream.ai/booth) 👉 Create beautiful artwork using the power of AI. Enter a prompt, pick an art style and watch WOMBO Dream turn your idea into an AI-powered painting in seconds.
+91. [Dreambooth](https://dream.ai/booth) 👉 Create beautiful artwork using the power of AI. Enter a prompt, pick an art style and watch WOMBO Dream turn your idea into an AI-powered painting in seconds.
 
-91. [Dreamlike](https://dreamlike.art/) 👉 AI Art Generator | dreamlike.art
+92. [Dreamlike](https://dreamlike.art/) 👉 AI Art Generator | dreamlike.art
 
-92. [Dreamspace.art](https://dreamspace.art/) 👉 The prompt diagramming tool
+93. [Dreamspace.art](https://dreamspace.art/) 👉 The prompt diagramming tool
 
-93. [DreamUp](https://www.dreamup.com/) 👉 The DeviantArt DreamUp™ AI-art generator lets you create AI-art safely and fairly.
+94. [DreamUp](https://www.dreamup.com/) 👉 The DeviantArt DreamUp™ AI-art generator lets you create AI-art safely and fairly.
 
-94. [Enterpix](https://enterpix.app/) 👉 AI-Generated Image Search Engine.
+95. [Enterpix](https://enterpix.app/) 👉 AI-Generated Image Search Engine.
 
-95. [EyeforAI](https://eyeforai.xyz/) 👉 Eye for AI - Eye for AI
+96. [EyeforAI](https://eyeforai.xyz/) 👉 Eye for AI - Eye for AI
 
-96. [Facet 2.0](https://facet.ai/) 👉 Harness the power of AI to make the creative process fast, effective and accessible. Experiment with visual directions, automate selections, and collaborate--all on the web. Welcome to modern image editing. Visit us at Facet.ai.
+97. [Facet 2.0](https://facet.ai/) 👉 Harness the power of AI to make the creative process fast, effective and accessible. Experiment with visual directions, automate selections, and collaborate--all on the web. Welcome to modern image editing. Visit us at Facet.ai.
 
-97. [Fermat](https://fermat.ws/) 👉 Unleash your creativity with Fermat. Create projects, collaborate with others, and use AI to bring your ideas to life.
+98. [Fermat](https://fermat.ws/) 👉 Unleash your creativity with Fermat. Create projects, collaborate with others, and use AI to bring your ideas to life.
 
-98. [Flying Dog](https://www.flyingdog.de/sd/) 👉 Your editing workflow will never been the same again: with DALL-E 2 and Stable Diffusion
+99. [Flying Dog](https://www.flyingdog.de/sd/) 👉 Your editing workflow will never been the same again: with DALL-E 2 and Stable Diffusion
 
-99. [For the Wall](https://forthewall.art/) 👉 AI generated wall art - framed, printed, shipped
+100. [For the Wall](https://forthewall.art/) 👉 AI generated wall art - framed, printed, shipped
 
-100. [For the Wall](https://forthewall.art/) 👉 Create your own unique and personalized art prints with forthewall.art! Our AI-powered platform lets you generate stunning works of art from scratch. Order your one-of-a-kind print today and transform your blank walls into something special. Try it out now at forthewall.art!
+101. [For the Wall](https://forthewall.art/) 👉 Create your own unique and personalized art prints with forthewall.art! Our AI-powered platform lets you generate stunning works of art from scratch. Order your one-of-a-kind print today and transform your blank walls into something special. Try it out now at forthewall.art!
 
-101. [Fotor](https://www.fotor.com/features/ai-art-generator/) 👉 Create AI Generated Art in Seconds
+102. [Fotor](https://www.fotor.com/features/ai-art-generator/) 👉 Create AI Generated Art in Seconds
 
-102. [Generated Photos](https://generated.photos/humans) 👉 Get super realistic whole-body images. Use them wherever you want and don't worry about legal stuff.
+103. [Generated Photos](https://generated.photos/humans) 👉 Get super realistic whole-body images. Use them wherever you want and don't worry about legal stuff.
 
-103. [Generative_engine](https://experiments.runwayml.com/generative_engine/) 👉 A storytelling machine that automatically generates synthetic images as you write new words and sentences. Made with RunwayML
+104. [Generative_engine](https://experiments.runwayml.com/generative_engine/) 👉 A storytelling machine that automatically generates synthetic images as you write new words and sentences. Made with RunwayML
 
-104. [Getalpaca](https://www.getalpaca.io/) 👉 alpaca is a Photoshop Plugin for to combine AI image generation power with human skill.
+105. [Getalpaca](https://www.getalpaca.io/) 👉 alpaca is a Photoshop Plugin for to combine AI image generation power with human skill.
 
-105. [Getimg.ai](https://getimg.ai/) 👉 Magical AI art tools. Generate original images, modify existing ones, expand pictures beyond its original borders, and more.
+106. [Getimg.ai](https://getimg.ai/) 👉 Magical AI art tools. Generate original images, modify existing ones, expand pictures beyond its original borders, and more.
 
-106. [Glitch Image Generator](https://glitchyimage.com/) 👉 Gives you the ability to create images that have a “glitched” look.
+107. [Glitch Image Generator](https://glitchyimage.com/) 👉 Gives you the ability to create images that have a “glitched” look.
 
-107. [Go Charlie](https://gocharlie.ai/) 👉 Create Images, Blogs, Ads, Website Headlines all with the click of a button.
+108. [Go Charlie](https://gocharlie.ai/) 👉 Create Images, Blogs, Ads, Website Headlines all with the click of a button.
 
-108. [GradienMood](https://gradienmood.posandu.me/) 👉 GradienMood - Generate a gradient from a mood
+109. [GradienMood](https://gradienmood.posandu.me/) 👉 GradienMood - Generate a gradient from a mood
 
-109. [Graphic AI](https://www.stork.ai/blog/whatsapp-ai-image-generator) 👉 WhatsApp AI Image Generator. We use artificial intelligence to generate an image directly in WhatsApp.
+110. [Graphic AI](https://www.stork.ai/blog/whatsapp-ai-image-generator) 👉 WhatsApp AI Image Generator. We use artificial intelligence to generate an image directly in WhatsApp.
 
-110. [heyy.ai](https://www.heyy.ai/) 👉 Automate content creation for your small business
+111. [heyy.ai](https://www.heyy.ai/) 👉 Automate content creation for your small business
 
-111. [Hotpot](https://hotpot.ai/) 👉 Hotpot.ai helps you create amazing graphics, pictures, and text. AI tools like AI Art Generator spark creativity and automate drudgery while easy-to-edit templates empower anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics.
+112. [Hotpot](https://hotpot.ai/) 👉 Hotpot.ai helps you create amazing graphics, pictures, and text. AI tools like AI Art Generator spark creativity and automate drudgery while easy-to-edit templates empower anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics.
 
-112. [I Wear Art](https://iwear.art/) 👉 Create unique art with AI, and wear it on your apparel.
+113. [I Wear Art](https://iwear.art/) 👉 Create unique art with AI, and wear it on your apparel.
 
-113. [Iillustrate](https://iillustrate.ai/) 👉 I, illustrate
+114. [Iillustrate](https://iillustrate.ai/) 👉 I, illustrate
 
-114. [IllostrationAI](https://www.illostration.com/) 👉 Create AI-generated illustrations. In seconds.
+115. [IllostrationAI](https://www.illostration.com/) 👉 Create AI-generated illustrations. In seconds.
 
-115. [Illustroke](https://illustroke.com/) 👉 Illustroke allows users to easily create stunning vector illustrations (svg) from text prompts. Simply enter in the text you want to use, and our platform will generate a beautiful, customizable illustration that you can download and use on your website or social media. Our illustrations are perfect for adding a unique and eye-catching touch to your online content. Plus, with our SEO-friendly platform, your illustrations will be sure to boost your search engine rankings and drive more traffic to your website. Try it out today and see the difference it can make for your online presence! Text to SVG illustration AI
+116. [Illustroke](https://illustroke.com/) 👉 Illustroke allows users to easily create stunning vector illustrations (svg) from text prompts. Simply enter in the text you want to use, and our platform will generate a beautiful, customizable illustration that you can download and use on your website or social media. Our illustrations are perfect for adding a unique and eye-catching touch to your online content. Plus, with our SEO-friendly platform, your illustrations will be sure to boost your search engine rankings and drive more traffic to your website. Try it out today and see the difference it can make for your online presence! Text to SVG illustration AI
 
-116. [Illustrur](https://www.illustrur.com/) 👉 Get customized illustrations for your articles, blogposts, stories in one click
+117. [Illustrur](https://www.illustrur.com/) 👉 Get customized illustrations for your articles, blogposts, stories in one click
 
-117. [Image AI App](https://imageai.app/) 👉 Unleash your imagination with AI-powered images.
+118. [Image AI App](https://imageai.app/) 👉 Unleash your imagination with AI-powered images.
 
 Image AI App is a tool that utilizes artificial intelligence (AI) to generate various types of images such as anime, art & more. It allows users to tap into the power of AI to create custom images that are tailored to their specific needs & preferences.
 
@@ -796,57 +806,57 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 99. [iQuit.ai](https://iquit.ai/) 👉 Generates your resignation letter or email in seconds.
 
-100.  [Jaq n Jil](https://beta.jaqnjil.com/) 👉 Create more amazing content at blazing speeds with Jaq n Jil's AI writing assistant. Try it for free.
+100. [Jaq n Jil](https://beta.jaqnjil.com/) 👉 Create more amazing content at blazing speeds with Jaq n Jil's AI writing assistant. Try it for free.
 
-101.  [Jasper](https://www.jasper.ai/) 👉 Helps you create amazing content faster.
+101. [Jasper](https://www.jasper.ai/) 👉 Helps you create amazing content faster.
 
-102.  [Jasper.ai](https://www.jasper.ai/) 👉 Jasper is the best AI writer and AI art generator for teams with over 3,000 5-star reviews. Create blog posts, marketing copy, and AI-generated images fast.
+102. [Jasper.ai](https://www.jasper.ai/) 👉 Jasper is the best AI writer and AI art generator for teams with over 3,000 5-star reviews. Create blog posts, marketing copy, and AI-generated images fast.
 
-103.  [Jester AI - Caption Writer](https://apps.apple.com/us/app/id1661372840) 👉 JESTER. An AI Assistant that writes clever photo captions for you. What does it do? Pick any photo and Jester will generate four unique captions. Choose your favorite and edit it as you wish.
+103. [Jester AI - Caption Writer](https://apps.apple.com/us/app/id1661372840) 👉 JESTER. An AI Assistant that writes clever photo captions for you. What does it do? Pick any photo and Jester will generate four unique captions. Choose your favorite and edit it as you wish.
 
-104.  [JibeWith.com](https://www.jibewith.com/) 👉 Writing online media content made simple with A.I. 🤩
+104. [JibeWith.com](https://www.jibewith.com/) 👉 Writing online media content made simple with A.I. 🤩
 
-105.  [Jokelub](https://jokelub.com/) 👉 Turn your writing into a joke at the click of your hand. Make people smile.
+105. [Jokelub](https://jokelub.com/) 👉 Turn your writing into a joke at the click of your hand. Make people smile.
 
-106.  [Jot](https://www.jotapp.tech/) 👉 Jot automagically generates infinite ad copy variations for you using AI.
+106. [Jot](https://www.jotapp.tech/) 👉 Jot automagically generates infinite ad copy variations for you using AI.
 
-107.  [Jot](https://www.jotapp.tech/) 👉 Jot automagically generates infinite ad copy variations for you using AI. Streamline your team's copywriting processes with artificial intelligence. Powered by OpenAI GPT-3.
+107. [Jot](https://www.jotapp.tech/) 👉 Jot automagically generates infinite ad copy variations for you using AI. Streamline your team's copywriting processes with artificial intelligence. Powered by OpenAI GPT-3.
 
-108.  [Jounce](https://www.jounce.ai/) 👉 There are over 55M marketers and only 600k copywriters. Jounce solves this demand gap with the most powerful artificial intelligence for marketers worldwide.
+108. [Jounce](https://www.jounce.ai/) 👉 There are over 55M marketers and only 600k copywriters. Jounce solves this demand gap with the most powerful artificial intelligence for marketers worldwide.
 
-109.  [Kafkai](https://kafkai.com/) 👉 Machine-learning algorithm that can write articles from scratch. Cutting-edge technology for marketers and SEOs.
+109. [Kafkai](https://kafkai.com/) 👉 Machine-learning algorithm that can write articles from scratch. Cutting-edge technology for marketers and SEOs.
 
-110.  [Katteb](https://katteb.com/en/) 👉 Katteb AI makes it fast & easy to create content for your blog and online store.
+110. [Katteb](https://katteb.com/en/) 👉 Katteb AI makes it fast & easy to create content for your blog and online store.
 
-111.  [Katteb AI Article Writer](https://katteb.com/en/) 👉 Automate Your Copywriting Needs With Katteb AI, Generate Content in Seconds With GPT-3 and J-JUMBO.
+111. [Katteb AI Article Writer](https://katteb.com/en/) 👉 Automate Your Copywriting Needs With Katteb AI, Generate Content in Seconds With GPT-3 and J-JUMBO.
 
-112.  [Klaviyo SMS Assistant](https://www.klaviyo.com/product/whats-new/sms-assistant) 👉 Write SMS campaigns in seconds with Klaviyo’s new AI-powered SMS Assistant
+112. [Klaviyo SMS Assistant](https://www.klaviyo.com/product/whats-new/sms-assistant) 👉 Write SMS campaigns in seconds with Klaviyo’s new AI-powered SMS Assistant
 
-113.  [Lavender](https://www.lavender.ai/) 👉 It's everything you need to personalize faster, write more impactful emails, coach, and improve.
+113. [Lavender](https://www.lavender.ai/) 👉 It's everything you need to personalize faster, write more impactful emails, coach, and improve.
 
-114.  [LeadIQ](https://leadiq.com/compose-sales-messages) 👉 Compose complete, personalized messages in seconds
+114. [LeadIQ](https://leadiq.com/compose-sales-messages) 👉 Compose complete, personalized messages in seconds
 
-115.  [Lek](https://lek.ai/) 👉 Lek.ai is an AI toolkit which generates content with AI. There are over 20 use cases in lek.ai to help you write anything for everything.
+115. [Lek](https://lek.ai/) 👉 Lek.ai is an AI toolkit which generates content with AI. There are over 20 use cases in lek.ai to help you write anything for everything.
 
-116.  [Letterdrop](https://letterdrop.com/) 👉 Create 32% more content, faster, with fewer headaches.
+116. [Letterdrop](https://letterdrop.com/) 👉 Create 32% more content, faster, with fewer headaches.
 
-117.  [Lex](https://lex.page/) 👉 Unlock your best writing
+117. [Lex](https://lex.page/) 👉 Unlock your best writing
 
-118.  [Lex](https://lex.page/) 👉 Lex
+118. [Lex](https://lex.page/) 👉 Lex
 
-119.  [Lightkey](https://www.lightkey.io/) 👉 Turbocharge your typing using the world’s leading AI-powered writing assistant
+119. [Lightkey](https://www.lightkey.io/) 👉 Turbocharge your typing using the world’s leading AI-powered writing assistant
 
-120.  [Localio AI](https://localio.io/) 👉 Use Artificial Intelligence to Make Copywriting EASY for Local SEO, Google My Business Optimization, and ANY Other Digital Marketing Service.
+120. [Localio AI](https://localio.io/) 👉 Use Artificial Intelligence to Make Copywriting EASY for Local SEO, Google My Business Optimization, and ANY Other Digital Marketing Service.
 
-121.  [LongShot](https://longshot.ai/) 👉 Create blogs that humans and search engines love using Artificial intelligence.
+121. [LongShot](https://longshot.ai/) 👉 Create blogs that humans and search engines love using Artificial intelligence.
 
-122.  [LongShot AI](https://www.longshot.ai/) 👉 AI writing assistant for accurate, personalized, optimized content
+122. [LongShot AI](https://www.longshot.ai/) 👉 AI writing assistant for accurate, personalized, optimized content
 
-123.  [LuciaAI](https://luciaai.com/) 👉 Lucia is an advanced AI writing assistant. It can help you write better, faster, and more creatively.
+123. [LuciaAI](https://luciaai.com/) 👉 Lucia is an advanced AI writing assistant. It can help you write better, faster, and more creatively.
 
-124.  [Luna](https://getluna.dev/) 👉 Personalize Cold Emails Instantly with Luna. Automated messages are dead these days.
+124. [Luna](https://getluna.dev/) 👉 Personalize Cold Emails Instantly with Luna. Automated messages are dead these days.
 
-125.  [Lunna AI](https://lunna.ai/) 👉 Lunna AI is the world's most advanced artificial intelligence writing tool.
+125. [Lunna AI](https://lunna.ai/) 👉 Lunna AI is the world's most advanced artificial intelligence writing tool.
 
 She uses OpenAI's GPT-3 to generate high quality and engaging content for her blog or website. We have 10+ tools that are perfect for writers who want to create compelling original content quickly and easily.
 
@@ -1114,7 +1124,7 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 5. [AI Data Sidekick](https://airops.com/sidekick) 👉 Write SQL, Python and more for free via the web or Firefox/Chrome Extension.
 
-6. [aiforcode.io](https://aiforcode.io/) 👉 Directory of AI coding tools with detailed feature comparisons and performance scores. 
+6. [aiforcode.io](https://aiforcode.io/) 👉 Directory of AI coding tools with detailed feature comparisons and performance scores.
 
 7. [AI Query](https://www.aiquery.co/) 👉 AI Query helps you generate complex SQL queries in seconds. Use simple English prompts to generate SQL queries. AI Query uses state of the art GPT-3 AI model to give you the best results.
 
@@ -1306,62 +1316,61 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 99. [Text2SQL.AI](https://www.text2sql.ai/) 👉 Generate SQL queries with AI in seconds!
 
-100. [Vivid](https://www.vivid.lol/) 👉 Make CSS styling a breeze with Vivid's in-browser visual editor that automatically updates your code.
+100.  [Vivid](https://www.vivid.lol/) 👉 Make CSS styling a breeze with Vivid's in-browser visual editor that automatically updates your code.
 
-101. [WhatTheDiff](https://whatthediff.ai/) 👉 Your AI-powered code review assistant. Save costly developer time by automating pull request summaries.
+101.  [WhatTheDiff](https://whatthediff.ai/) 👉 Your AI-powered code review assistant. Save costly developer time by automating pull request summaries.
 
-102. [Whatthediff](https://whatthediff.ai/) 👉 The AI powered GitHub app that explains the changes within your pull requests in plain english
+102.  [Whatthediff](https://whatthediff.ai/) 👉 The AI powered GitHub app that explains the changes within your pull requests in plain english
 
-103. [WidgetsAI](https://widgetsai.com/) 👉 WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots.
+103.  [WidgetsAI](https://widgetsai.com/) 👉 WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots.
 
-104. [Xokind](https://www.xokind.com/) 👉 AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.
+104.  [Xokind](https://www.xokind.com/) 👉 AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.
 
-105. [Safurai](https://www.safurai.com/) 👉 The AI Code Assistant that really helps developers.
+105.  [Safurai](https://www.safurai.com/) 👉 The AI Code Assistant that really helps developers.
 
-106. [GitFluence](https://www.gitfluence.com/) 👉 AI-driven solution that helps you quickly find the right command.
+106.  [GitFluence](https://www.gitfluence.com/) 👉 AI-driven solution that helps you quickly find the right command.
 
-107. [MarsAi](https://www.marsx.dev) 👉 Low-code platform for building web and mobile app.
+107.  [MarsAi](https://www.marsx.dev) 👉 Low-code platform for building web and mobile app.
 
-108. [SuperAGI](https://superagi.com/) 👉 Infrastructure for building your next app with Autonomous Agents.
+108.  [SuperAGI](https://superagi.com/) 👉 Infrastructure for building your next app with Autonomous Agents.
 
-109. [One AI](https://www.oneai.com) 👉 Generative AI API for businesses.
+109.  [One AI](https://www.oneai.com) 👉 Generative AI API for businesses.
 
-110. [Pixelicious](https://www.pixelicious.xyz) 👉 Pixel Art Converter.
+110.  [Pixelicious](https://www.pixelicious.xyz) 👉 Pixel Art Converter.
 
-111. [Datature](https://datature.io) 👉 Manage datasets, annotate, train, and deploy.
+111.  [Datature](https://datature.io) 👉 Manage datasets, annotate, train, and deploy.
 
-112. [Mixo.io](https://mixo.io/) 👉 Launch a startup in seconds with AI.
+112.  [Mixo.io](https://mixo.io/) 👉 Launch a startup in seconds with AI.
 
-113. [Cron AI](https://cron-ai.vercel.app) 👉 Words to cron expression
+113.  [Cron AI](https://cron-ai.vercel.app) 👉 Words to cron expression
 
-114. [Gooey.AI](https://gooey.ai) 👉 Prototype how AI will integrate with your own site/app.
+114.  [Gooey.AI](https://gooey.ai) 👉 Prototype how AI will integrate with your own site/app.
 
-115. [fast.ai](https://www.fast.ai/) 👉 Non-profit research group focused on DL & AI, offering useful courses.
+115.  [fast.ai](https://www.fast.ai/) 👉 Non-profit research group focused on DL & AI, offering useful courses.
 
-116. [ZZZ Code AI](https://zzzcode.ai) 👉 AI-powered free website to get any programming question answered or code generated.
+116.  [ZZZ Code AI](https://zzzcode.ai) 👉 AI-powered free website to get any programming question answered or code generated.
 
-117. [Bifrost](https://www.bifrost.so/) 👉 Use AI to turn your Figma designs into clean React code automatically.
+117.  [Bifrost](https://www.bifrost.so/) 👉 Use AI to turn your Figma designs into clean React code automatically.
 
-117. [Codeflash](https://www.codeflash.ai/) 👉 Ship Blazing-Fast Python Code — Every Time.
+118.  [Codeflash](https://www.codeflash.ai/) 👉 Ship Blazing-Fast Python Code — Every Time.
 
-118. [BurnRate](https://getburnrate.io/) 👉 AI coding cost analytics CLI that tracks usage and costs across Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, and Codex with real-time dashboard and 46 optimization rules.
+119.  [BurnRate](https://getburnrate.io/) 👉 AI coding cost analytics CLI that tracks usage and costs across Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, and Codex with real-time dashboard and 46 optimization rules.
 
-120. [claude-dash](https://github.com/krabat-l/claude-dash) 👉 Real-time statusline for Claude Code showing context, cost, quota, cache, tools, and git status. Zero dependencies.
+120.  [claude-dash](https://github.com/krabat-l/claude-dash) 👉 Real-time statusline for Claude Code showing context, cost, quota, cache, tools, and git status. Zero dependencies.
 
-121. [aicost](https://github.com/dwylq/aicost) 👉 Universal AI coding cost analyzer CLI — scan Claude Code and Cursor for token usage and costs in one pass. Cache-aware pricing, HTML dashboard, no API key. MIT licensed.
+121.  [aicost](https://github.com/dwylq/aicost) 👉 Universal AI coding cost analyzer CLI — scan Claude Code and Cursor for token usage and costs in one pass. Cache-aware pricing, HTML dashboard, no API key. MIT licensed.
 
-122. [Unslop](https://github.com/MohamedAbdallah-14/unslop) 👉 CLI and MCP server that removes AI writing patterns from text — tricolons, em-dash overuse, sycophancy openers, and overused vocabulary. Works with Claude Code, Codex, Gemini CLI, and Cursor. Five intensity levels and a lint-only audit mode.
+122.  [Unslop](https://github.com/MohamedAbdallah-14/unslop) 👉 CLI and MCP server that removes AI writing patterns from text — tricolons, em-dash overuse, sycophancy openers, and overused vocabulary. Works with Claude Code, Codex, Gemini CLI, and Cursor. Five intensity levels and a lint-only audit mode.
 
-119. [Nex.ai](https://nex.ai) 👉 Context engineering platform that gives AI agents real-time organizational context from CRM, email, Slack, and data warehouses. REST API with SSE streaming.
+123.  [Nex.ai](https://nex.ai) 👉 Context engineering platform that gives AI agents real-time organizational context from CRM, email, Slack, and data warehouses. REST API with SSE streaming.
 
-120. [LocalePack](https://localepack.app/) 👉 Translate browser extension strings (messages.json → _locales ZIP), Next.js locale files, i18next namespaces, and vue-i18n JSON/YAML into 52 languages. Placeholders and nested structure preserved. Pay once.
+124.  [LocalePack](https://localepack.app/) 👉 Translate browser extension strings (messages.json → \_locales ZIP), Next.js locale files, i18next namespaces, and vue-i18n JSON/YAML into 52 languages. Placeholders and nested structure preserved. Pay once.
 
+125.  [CCHub](https://github.com/Moresl/cchub) 👉 Open-source desktop app (Tauri + Rust) for managing the Claude Code ecosystem — MCP marketplace, config profiles, workflow templates, security audit. Cross-platform, MIT licensed.
 
-1. [CCHub](https://github.com/Moresl/cchub) 👉 Open-source desktop app (Tauri + Rust) for managing the Claude Code ecosystem — MCP marketplace, config profiles, workflow templates, security audit. Cross-platform, MIT licensed.
+126.  [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) 👉 Windows system tray app for monitoring Claude Code token usage in real time. Reads local JSONL session files to display per-session token counts, costs, context window usage, and tool call breakdowns. Fetches rate-limit data from the Anthropic API.
 
-2. [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) 👉 Windows system tray app for monitoring Claude Code token usage in real time. Reads local JSONL session files to display per-session token counts, costs, context window usage, and tool call breakdowns. Fetches rate-limit data from the Anthropic API.
-
-3. [KubeStellar Console](https://github.com/kubestellar/console) 👉 Multi-cluster Kubernetes dashboard with AI-powered operations via MCP. Includes kc-agent for bridging AI coding agents (Claude, Copilot, Codex) to the Kubernetes API for natural-language cluster management, CNCF project integrations, and real-time observability across edge and cloud clusters.
+127.  [KubeStellar Console](https://github.com/kubestellar/console) 👉 Multi-cluster Kubernetes dashboard with AI-powered operations via MCP. Includes kc-agent for bridging AI coding agents (Claude, Copilot, Codex) to the Kubernetes API for natural-language cluster management, CNCF project integrations, and real-time observability across edge and cloud clusters.
 
 ## 4. <a name='Business'></a>👔 Business
 
@@ -1569,12 +1578,11 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 101. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
 
-102.  [Twig](https://www.twig.so/) 👉 Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
+102. [Twig](https://www.twig.so/) 👉 Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
 
 103. [Overloop CLI](https://github.com/sortlist/overloop-cli) 👉 AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native. `npm i -g overloop-cli`
 
 104. [Signals CLI](https://github.com/sortlist/signals-cli) 👉 Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. `npm i -g signals-sortlist-cli`
-
 
 ## 5. <a name='Video'></a>🎥 Video
 
@@ -1965,7 +1973,7 @@ Join 2700+ creators to reach billions of people globally
 94. [Roomify AI](https://roomify.ai/) 👉 Transform your room with just a snap! Discover new styles and designs for your room. Upload a photo of your room and let our AI do the rest.
 
 95. [TurnCage](https://turncage.com/) 👉 Remarkably Beautiful Websites in minutes not months. Discover a seamless web design experience with our AI-driven platform, perfect for businesses seeking an online presence.
-96.  [Simplebio](https://simplebio.co/) 👉 Simplebio is _the easiest_ way to create a personal page. Highlight your uniqueness by showing your bio, links, and portfolio in one place. Don't slave over writing content (AI handles that) or design (we got you covered). Stand out. Build your page today!
+96. [Simplebio](https://simplebio.co/) 👉 Simplebio is _the easiest_ way to create a personal page. Highlight your uniqueness by showing your bio, links, and portfolio in one place. Don't slave over writing content (AI handles that) or design (we got you covered). Stand out. Build your page today!
 97. [VisualQR](https://visualqr.co/) 👉 VisualQR.co - Generate Beautiful QR Codes using AI - Use templates or create your own unique QR codes - Every QR code is tested to make sure it's working
 98. [iconGeniusAi](https://icongeniusai.com/) 👉 iconGeniusAi is an icon creator powered by generative AI that allows you to build the icon you need for your business, app, prints or logo, based on user input such as style, colors and description.
 99. [Innov8IQ](https://innov8iq.com/) 👉 A case study template builder to help designers write their case studies faster and easier
@@ -1996,154 +2004,153 @@ Join 2700+ creators to reach billions of people globally
 124. [PosterStudio](https://posterstudio.ai/) 👉 PosterStudio helps Marketing teams of large enterprise, Small and Medium business owners to create social media advertisements with 0 design skills. All you need to do is mention the messaging of advertisement and posterstudio takes care of everything.
 125. [Icon Craft AI](https://iconcraftai.com/) 👉 Accelerate Your Icon Creation Process: Harness the Power of Our AI Digital Icon Generator for Your Business Website, Applications, and Brand.
 
-
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
 1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
 
 1. [AI Background Generator by PhotoRoom](https://www.photoroom.com/backgrounds/) 👉 Describe the image you want, and it will magically generate an infinite number of unique backgrounds using stable diffusion that match your exact request
 
-2. [AI Designer](https://imgcreator.zmo.ai/editor) 👉 Create art and images with AI for free. ImgCreator.ai can generate images, art, illustrations, anime, logos, designs from text and images. Our proprietary technology will bring your imagination to life.
+1. [AI Designer](https://imgcreator.zmo.ai/editor) 👉 Create art and images with AI for free. ImgCreator.ai can generate images, art, illustrations, anime, logos, designs from text and images. Our proprietary technology will bring your imagination to life.
 
-3. [AI Image Enlarger](https://imglarger.com/) 👉 imglarger.com
+1. [AI Image Enlarger](https://imglarger.com/) 👉 imglarger.com
 
-4. [AI Image Upscaler](https://www.upscale.media/) 👉 Upscale your image to 2x or 4x without losing any textures or details with our AI tool. Use our super-resolution tool and bring new life to your images.
+1. [AI Image Upscaler](https://www.upscale.media/) 👉 Upscale your image to 2x or 4x without losing any textures or details with our AI tool. Use our super-resolution tool and bring new life to your images.
 
-5. [AILab Tools](https://www.ailabtools.com/) 👉 AILabtools artificial intelligence platform, provides powerful online image editing tools to help you easily process photos, providing black and white image colouring, sharpness enhancement, contrast enhancement, image lossless enlargement, portrait animation, photo age change, photo gender change, image style change and many other practical and powerful functions, and provides the corresponding API interface, use AILabtools online image processing, easy and efficient online P-map, you can also use the API to develop your own image processing tools.
+1. [AILab Tools](https://www.ailabtools.com/) 👉 AILabtools artificial intelligence platform, provides powerful online image editing tools to help you easily process photos, providing black and white image colouring, sharpness enhancement, contrast enhancement, image lossless enlargement, portrait animation, photo age change, photo gender change, image style change and many other practical and powerful functions, and provides the corresponding API interface, use AILabtools online image processing, easy and efficient online P-map, you can also use the API to develop your own image processing tools.
 
-6. [Alto AI](https://apps.apple.com/us/app/alto-ai-photo-enhancer/id1634488334) 👉 Alto AI is the photo enhancement application to clear blurry pictures and enhance high resolution by using AI technology Turn your old, blurry photos into amazing, clear HD ones in just a SECOND!
+1. [Alto AI](https://apps.apple.com/us/app/alto-ai-photo-enhancer/id1634488334) 👉 Alto AI is the photo enhancement application to clear blurry pictures and enhance high resolution by using AI technology Turn your old, blurry photos into amazing, clear HD ones in just a SECOND!
 
-7. [Artbreeder](https://www.artbreeder.com/) 👉 Artbreeder
+1. [Artbreeder](https://www.artbreeder.com/) 👉 Artbreeder
 
-8. [Astria.ai](https://www.astria.ai/) 👉 Create custom images using AI
+1. [Astria.ai](https://www.astria.ai/) 👉 Create custom images using AI
 
-9. [Audo AI](https://audo.ai/) 👉 One click audio cleaning for YouTubers and Podcasters ️
+1. [Audo AI](https://audo.ai/) 👉 One click audio cleaning for YouTubers and Podcasters ️
 
-10. [AVC AI](https://avc.ai/) 👉 Online AI Image Enhancer that Improves Photo Quality by Upscaling, Denoising, Restoring, Face Refinement, and More
+1. [AVC AI](https://avc.ai/) 👉 Online AI Image Enhancer that Improves Photo Quality by Upscaling, Denoising, Restoring, Face Refinement, and More
 
-11. [BigJpg](https://bigjpg.com/) 👉 Bigjpg - Image Super-Resolution for Anime-style artworks using the Deep Convolutional Neural Networks without quality loss. Photos are also supported.
+1. [BigJpg](https://bigjpg.com/) 👉 Bigjpg - Image Super-Resolution for Anime-style artworks using the Deep Convolutional Neural Networks without quality loss. Photos are also supported.
 
-12. [Boolpic](https://boolv.tech/toolkit) 👉 Free & Lightspeed AI Image Editing Platform - Boolv.Toolkit | 123
+1. [Boolpic](https://boolv.tech/toolkit) 👉 Free & Lightspeed AI Image Editing Platform - Boolv.Toolkit | 123
 
-13. [Claid.ai](https://claid.ai/) 👉 AI software to enlarge images with no quality loss, correct colors, increase resolution, retouch product photos and edit UGC automatically.
+1. [Claid.ai](https://claid.ai/) 👉 AI software to enlarge images with no quality loss, correct colors, increase resolution, retouch product photos and edit UGC automatically.
 
-14. [Clipdrop](https://clipdrop.co/) 👉 Create professional visuals without a photo studio
+1. [Clipdrop](https://clipdrop.co/) 👉 Create professional visuals without a photo studio
 
-15. [ClipDrop Replace Background](https://clipdrop.co/replace-background) 👉 Teleport anything, anywhere with AI
+1. [ClipDrop Replace Background](https://clipdrop.co/replace-background) 👉 Teleport anything, anywhere with AI
 
-16. [Colorize](https://colorize.cc/) 👉 Colorize photo online. Restore black and white photos.
+1. [Colorize](https://colorize.cc/) 👉 Colorize photo online. Restore black and white photos.
 
-17. [Cutout Pro](https://www.cutout.pro/) 👉 All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design, and content generation. With Cutout.Pro, it is one click away to optimize your content and transform your design ideas into special asset effectively.
+1. [Cutout Pro](https://www.cutout.pro/) 👉 All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design, and content generation. With Cutout.Pro, it is one click away to optimize your content and transform your design ideas into special asset effectively.
 
-18. [D-ID](https://www.d-id.com/) 👉 Say goodbye to expensive traditional video creation! Create videos from plain text in minutes! Easy to use, cheap and scalable.
+1. [D-ID](https://www.d-id.com/) 👉 Say goodbye to expensive traditional video creation! Create videos from plain text in minutes! Easy to use, cheap and scalable.
 
-19. [Designify](https://www.designify.com/) 👉 Create exceptional product photos and more: Pick any image to start the magic ✨
+1. [Designify](https://www.designify.com/) 👉 Create exceptional product photos and more: Pick any image to start the magic ✨
 
-20. [Ebsynth](https://ebsynth.com/) 👉 You paint one frame and EbSynth propagates it to the rest of the footage.
+1. [Ebsynth](https://ebsynth.com/) 👉 You paint one frame and EbSynth propagates it to the rest of the footage.
 
-21. [enhanceAI](https://apps.apple.com/us/app/id1524570112) 👉 enhanceAI will vastly improve less-than-ideal images and add incredible detail with our optional Super Resolution. Automatically remove blur and noise, improve images and add up to 8x detail with enhanceAI. Don't worry about the details.
+1. [enhanceAI](https://apps.apple.com/us/app/id1524570112) 👉 enhanceAI will vastly improve less-than-ideal images and add incredible detail with our optional Super Resolution. Automatically remove blur and noise, improve images and add up to 8x detail with enhanceAI. Don't worry about the details.
 
-22. [Erase.bg](https://www.erase.bg/) 👉 Make the background transparent for images of humans, animals, or objects. Download images in high resolution for free for e-commerce and personal use. No credit card needed.
+1. [Erase.bg](https://www.erase.bg/) 👉 Make the background transparent for images of humans, animals, or objects. Download images in high resolution for free for e-commerce and personal use. No credit card needed.
 
-23. [ExtendImage](https://www.extendimage.ai/) 👉 ExtendImageAI is a tool that allows you to extend your images with generative AI.
+1. [ExtendImage](https://www.extendimage.ai/) 👉 ExtendImageAI is a tool that allows you to extend your images with generative AI.
 
-24. [Gigapixel AI](https://www.topazlabs.com/) 👉 Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more.
+1. [Gigapixel AI](https://www.topazlabs.com/) 👉 Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more.
 
-25. [Green Screen AI](https://greenscreenai.com/) 👉 Green Screen AI is a fun & easy way to transform your pics into generative AI art.
+1. [Green Screen AI](https://greenscreenai.com/) 👉 Green Screen AI is a fun & easy way to transform your pics into generative AI art.
 
-26. [Hama](https://www.hama.app/) 👉 Amazing photo eraser
+1. [Hama](https://www.hama.app/) 👉 Amazing photo eraser
 
-27. [Holovolo](https://holovolo.tv/) 👉 holovolo - immersive volumetric VR180 videos and photos, and 3D stable diffusion, for Quest and WebVR
+1. [Holovolo](https://holovolo.tv/) 👉 holovolo - immersive volumetric VR180 videos and photos, and 3D stable diffusion, for Quest and WebVR
 
-28. [imglarger](https://imglarger.com/) 👉 Imglarger is a web app that increases image resolution and enhances visual effects using AI technology. It offers a lot of powerful tools to enhance pictures without losing quality. With imglarger, you can sharpen a blurry image, retouch a face portrait, reduce noises, remove unwanted elements, and resize images.
+1. [imglarger](https://imglarger.com/) 👉 Imglarger is a web app that increases image resolution and enhances visual effects using AI technology. It offers a lot of powerful tools to enhance pictures without losing quality. With imglarger, you can sharpen a blurry image, retouch a face portrait, reduce noises, remove unwanted elements, and resize images.
 
-29. [Imgupscaler](https://imgupscaler.com/) 👉 Free image upscaler to upscale image by 400% and upto 16000\*16000. Upscale and enlarge images without losing quality. Support JPG/PNG/JPEG
+1. [Imgupscaler](https://imgupscaler.com/) 👉 Free image upscaler to upscale image by 400% and upto 16000\*16000. Upscale and enlarge images without losing quality. Support JPG/PNG/JPEG
 
-30. [jpghd](https://jpghd.com/) 👉 Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo)
+1. [jpghd](https://jpghd.com/) 👉 Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo)
 
-31. [jpgRM](https://jpgrm.com/) 👉 Using 2022 cutting edged AI model to remove any unwanted bojects from your images, automatically fill the background
+1. [jpgRM](https://jpgrm.com/) 👉 Using 2022 cutting edged AI model to remove any unwanted bojects from your images, automatically fill the background
 
-32. [Kive](https://www.kive.ai/) 👉 Kive – all your inspiration in one place
+1. [Kive](https://www.kive.ai/) 👉 Kive – all your inspiration in one place
 
-33. [Krisp](https://krisp.ai/) 👉 Krisp cancels background noise and reduces echo during your calls. Get started with Krisp today and enjoy effective online meetings.
+1. [Krisp](https://krisp.ai/) 👉 Krisp cancels background noise and reduces echo during your calls. Get started with Krisp today and enjoy effective online meetings.
 
-34. [Lensto](https://apps.apple.com/us/app/lensto-background-changer/id1574844033) 👉 Lensto is a photo editor app that lets you edit images including background remover. We use artificial intelligence to cut out, which work as background remover. And overlay your subject over an awesome background.
+1. [Lensto](https://apps.apple.com/us/app/lensto-background-changer/id1574844033) 👉 Lensto is a photo editor app that lets you edit images including background remover. We use artificial intelligence to cut out, which work as background remover. And overlay your subject over an awesome background.
 
-35. [Letsenhance](https://letsenhance.io/) 👉 AI software to enhance and upscale pictures. Increase resolution and quality. Fix blurry, pixelated and bad images. Make every photo sharp and clear.
+1. [Letsenhance](https://letsenhance.io/) 👉 AI software to enhance and upscale pictures. Increase resolution and quality. Fix blurry, pixelated and bad images. Make every photo sharp and clear.
 
-36. [Magic Eraser](https://magicstudio.com/magiceraser) 👉 Upload, mark the bit you need removed, download. Free to use. No signup required!
+1. [Magic Eraser](https://magicstudio.com/magiceraser) 👉 Upload, mark the bit you need removed, download. Free to use. No signup required!
 
-37. [Magic Studio by PhotoRoom](https://apps.apple.com/us/app/photoroom-studio-photo-editor/id1455009060) 👉 Effortlessly create, edit, and organize perfect product shots with just a few taps. It’s why thousands of creators and online sellers choose PhotoRoom to get their listings live 3x faster and make more sales.
+1. [Magic Studio by PhotoRoom](https://apps.apple.com/us/app/photoroom-studio-photo-editor/id1455009060) 👉 Effortlessly create, edit, and organize perfect product shots with just a few taps. It’s why thousands of creators and online sellers choose PhotoRoom to get their listings live 3x faster and make more sales.
 
-38. [Nero Image Upscaler](https://ai.nero.com/image-upscaler) 👉 Simple image upscaler for resizing photos in higher resolution. #AI upscaling #AI denoising #AI optimising. Image magnified 400%.
+1. [Nero Image Upscaler](https://ai.nero.com/image-upscaler) 👉 Simple image upscaler for resizing photos in higher resolution. #AI upscaling #AI denoising #AI optimising. Image magnified 400%.
 
-39. [Nostalgia Photo](https://www.nostalgia.photo/) 👉 Restore treasured memories at maximum resolution in a few clicks and a few cents. Our advanced AI can remove blemishes and imperfections, while preserving the original details of your photos.
+1. [Nostalgia Photo](https://www.nostalgia.photo/) 👉 Restore treasured memories at maximum resolution in a few clicks and a few cents. Our advanced AI can remove blemishes and imperfections, while preserving the original details of your photos.
 
-40. [Palette](https://palette.fm/) 👉 A new AI colorizer. Colorize anything from old black and white photos, style your artworks, or give modern images a fresh look. It's as simple as instagram, free, and no sign-up required!
+1. [Palette](https://palette.fm/) 👉 A new AI colorizer. Colorize anything from old black and white photos, style your artworks, or give modern images a fresh look. It's as simple as instagram, free, and no sign-up required!
 
-41. [Pattern Maker AI](https://patternmakerai.com/) 👉 Generate seamless vector patterns using artificial intelligence
+1. [Pattern Maker AI](https://patternmakerai.com/) 👉 Generate seamless vector patterns using artificial intelligence
 
-42. [Phosus](https://phosus.com/) 👉 Discover our AI-powered creative tools and API solutions for photos and images. One-click AI tools inpainting, background removal, auto fix and more. Try it now!
+1. [Phosus](https://phosus.com/) 👉 Discover our AI-powered creative tools and API solutions for photos and images. One-click AI tools inpainting, background removal, auto fix and more. Try it now!
 
-43. [PhotoFix](https://photofix.io/) 👉 PhotoFix - Magically Edit Photos with AI - Remove unwanted people, animals or things from photos
+1. [PhotoFix](https://photofix.io/) 👉 PhotoFix - Magically Edit Photos with AI - Remove unwanted people, animals or things from photos
 
-44. [Photor AI](https://photor.io/) 👉 Photor AI is a tool that uses advanced image recognition and machine learning technology to analyze and select the best images for professional or personal use
+1. [Photor AI](https://photor.io/) 👉 Photor AI is a tool that uses advanced image recognition and machine learning technology to analyze and select the best images for professional or personal use
 
-45. [Photor AI](https://photor.io/photo-rater-ai) 👉 Photo Rater AI is a tool designed to help photographers evaluate their photos quickly and accurately. This tool allows users to upload their images and receive an objective analysis of various technical aspects such as composition, color, exposure, and other technical details.
+1. [Photor AI](https://photor.io/photo-rater-ai) 👉 Photo Rater AI is a tool designed to help photographers evaluate their photos quickly and accurately. This tool allows users to upload their images and receive an objective analysis of various technical aspects such as composition, color, exposure, and other technical details.
 
-46. [Photorestoration](https://photorestoration.ai/) 👉 photorestoration.ai allows you to repair old damaged photos online for free with deep learning.
+1. [Photorestoration](https://photorestoration.ai/) 👉 photorestoration.ai allows you to repair old damaged photos online for free with deep learning.
 
-47. [Photospells](https://photospells.com/) 👉 Professional Photo Edition with AI.
+1. [Photospells](https://photospells.com/) 👉 Professional Photo Edition with AI.
 
-48. [PixAI](https://apps.apple.com/cn/app/pixai/id6443815029) 👉 AI Image Super-resolution for iOS
+1. [PixAI](https://apps.apple.com/cn/app/pixai/id6443815029) 👉 AI Image Super-resolution for iOS
 
-49. [Pixian](https://pixian.ai/) 👉 Remove Image Backgrounds, Free HD, No Signup - Pixian.AI
+1. [Pixian](https://pixian.ai/) 👉 Remove Image Backgrounds, Free HD, No Signup - Pixian.AI
 
-50. [Reface](https://hey.reface.ai/) 👉 Create realistic face swap videos, GIFs and memes with just one selfie
+1. [Reface](https://hey.reface.ai/) 👉 Create realistic face swap videos, GIFs and memes with just one selfie
 
-51. [ReImage AI](https://apps.apple.com/app/apple-store/id1641365018) 👉 ReImage AI edits and generates images using state of the art artificial intelligence (AI). Cloud based AI servers provide access to the latest AI models, but from the ease of a phone. Edit your own photos using natural language.
+1. [ReImage AI](https://apps.apple.com/app/apple-store/id1641365018) 👉 ReImage AI edits and generates images using state of the art artificial intelligence (AI). Cloud based AI servers provide access to the latest AI models, but from the ease of a phone. Edit your own photos using natural language.
 
-52. [Removal.ai](https://removal.ai/) 👉 Remove background online from image using background remover. Create transparent background | Download high-resolution instantly & free.
+1. [Removal.ai](https://removal.ai/) 👉 Remove background online from image using background remover. Create transparent background | Download high-resolution instantly & free.
 
-53. [Remove.bg](https://www.remove.bg/) 👉 Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic.
+1. [Remove.bg](https://www.remove.bg/) 👉 Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic.
 
-54. [Remover.app](https://remover.zmo.ai/) 👉 Remover
+1. [Remover.app](https://remover.zmo.ai/) 👉 Remover
 
-55. [Rentoor](https://rentoor.vercel.app/) 👉 Enhance Your Photos face photos and keep the memories alive.
+1. [Rentoor](https://rentoor.vercel.app/) 👉 Enhance Your Photos face photos and keep the memories alive.
 
-56. [RestorePhotos](https://www.restorephotos.io/) 👉 Restore your old face photos and keep the memories alive.
+1. [RestorePhotos](https://www.restorephotos.io/) 👉 Restore your old face photos and keep the memories alive.
 
-57. [SceneryAI](https://sceneryai.com/) 👉 Generate or update existing images with our AI image editing tool.
+1. [SceneryAI](https://sceneryai.com/) 👉 Generate or update existing images with our AI image editing tool.
 
-58. [Slazzer 3.0](https://www.slazzer.com/) 👉 Remove background from image automatically in 5 seconds. Don't waste time manually selecting pixels. Just upload photo & get instant cutout.
+1. [Slazzer 3.0](https://www.slazzer.com/) 👉 Remove background from image automatically in 5 seconds. Don't waste time manually selecting pixels. Just upload photo & get instant cutout.
 
-59. [Stillgram](https://stillgram.io/) 👉 Stillgram is an A.I. point & shoot camera app that magically removes background crowds from your urban/travel photos. FREE & PRO versions. GET IT NOW!!
+1. [Stillgram](https://stillgram.io/) 👉 Stillgram is an A.I. point & shoot camera app that magically removes background crowds from your urban/travel photos. FREE & PRO versions. GET IT NOW!!
 
-60. [Synthesys](https://synthesys.io/x/) 👉 Start Turning Your Online Inspiration Into Your Own Unique Creations!
+1. [Synthesys](https://synthesys.io/x/) 👉 Start Turning Your Online Inspiration Into Your Own Unique Creations!
 
-61. [Text to Image by Photoleap](https://www.photoleapapp.com/) 👉 Use all-in-one photo editor Photoleap for amazing creations on your iPhone: Change backgrounds, remove objects, create collages, apply filters & effects. Try a 7 day free trial now.
+1. [Text to Image by Photoleap](https://www.photoleapapp.com/) 👉 Use all-in-one photo editor Photoleap for amazing creations on your iPhone: Change backgrounds, remove objects, create collages, apply filters & effects. Try a 7 day free trial now.
 
-62. [Tokkingheads](https://www.tokkingheads.com/) 👉 Animate your photos in seconds with TokkingHeads. Try it now!
+1. [Tokkingheads](https://www.tokkingheads.com/) 👉 Animate your photos in seconds with TokkingHeads. Try it now!
 
-63. [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) 👉 Get the best version of your photo with noise reduction, sharpening, upscaling, and face recovery powered by deep learning.
+1. [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) 👉 Get the best version of your photo with noise reduction, sharpening, upscaling, and face recovery powered by deep learning.
 
-64. [Unfake](https://unfakepng.com/) 👉 Don’t you hate it when you find that perfect, supposedly background-less PNG, download it but when you go to use it, the dreaded checkerboard appears? Our AI tool can turn those annoying fake.png into true, unfake.png.
+1. [Unfake](https://unfakepng.com/) 👉 Don’t you hate it when you find that perfect, supposedly background-less PNG, download it but when you go to use it, the dreaded checkerboard appears? Our AI tool can turn those annoying fake.png into true, unfake.png.
 
-65. [Unpromptedgame](https://www.unpromptedgame.com/) 👉 Guess the words used to create A.I. images.
+1. [Unpromptedgame](https://www.unpromptedgame.com/) 👉 Guess the words used to create A.I. images.
 
-66. [VanceAI Image Upscaler](https://vanceai.com/image-enlarger/) 👉 VanceAI Image Upscaler helps upscale images to 800% and make 4K images in one click. Feel free to try image upscaler online or download image enlarger software!
+1. [VanceAI Image Upscaler](https://vanceai.com/image-enlarger/) 👉 VanceAI Image Upscaler helps upscale images to 800% and make 4K images in one click. Feel free to try image upscaler online or download image enlarger software!
 
-67. [Waifu XL](https://waifuxl.com/) 👉 High quality image upsampling for anime-style art using state-of-the-art neural networks, directly in your browser. Supports both images and gifs.
+1. [Waifu XL](https://waifuxl.com/) 👉 High quality image upsampling for anime-style art using state-of-the-art neural networks, directly in your browser. Supports both images and gifs.
 
-68. [Watermark Remover](https://www.watermarkremover.io/) 👉 Remove watermarks from your images using our AI technology. Use our watermark-remover tool and get your images watermark free.
+1. [Watermark Remover](https://www.watermarkremover.io/) 👉 Remove watermarks from your images using our AI technology. Use our watermark-remover tool and get your images watermark free.
 
-69. [Zoomscape](https://zoomscape.ai/) 👉 Create stunning Zoom backgrounds with AI
+1. [Zoomscape](https://zoomscape.ai/) 👉 Create stunning Zoom backgrounds with AI
 
-70. [PicWish](https://picwish.com/) 👉 PicWish is an AI-powered image processing tool that frees you up from repetitive tasks for more valuable creative work.
+1. [PicWish](https://picwish.com/) 👉 PicWish is an AI-powered image processing tool that frees you up from repetitive tasks for more valuable creative work.
 
-71. [Moire Removal](https://moireremoval.com/) 👉 AI-powered moiré pattern removal tool for screen photos, scanned prints, and projector captures. Preserves text legibility and facial details.
+1. [Moire Removal](https://moireremoval.com/) 👉 AI-powered moiré pattern removal tool for screen photos, scanned prints, and projector captures. Preserves text legibility and facial details.
 
-72. [ArtImageHub](https://artimagehub.com/old-photo-restoration) 👉 AI-powered old photo restoration. Fixes scratches, fading, blur, and water damage on old family photos. One-time $4.99, no subscription.
+1. [ArtImageHub](https://artimagehub.com/old-photo-restoration) 👉 AI-powered old photo restoration. Fixes scratches, fading, blur, and water damage on old family photos. One-time $4.99, no subscription.
 
 ## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
 
@@ -2807,9 +2814,9 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 61. [Soul Machines](https://www.soulmachines.com/) 👉 Embark on a mesmerizing journey where Soul Machines merges AI, metaverse, and digital celebrities. Witness the extraordinary infusion of GPT
 62. [voicetoinstrument.com](https://voicetoinstrument.com) 👉 Convert voice to instrumental tracks using AI
 
-62. [voicetoinstrument.com](https://voicetoinstrument.com) 👉 Convert voice to instrument tracks using AI for music production and audio content creation.
+63. [voicetoinstrument.com](https://voicetoinstrument.com) 👉 Convert voice to instrument tracks using AI for music production and audio content creation.
 
-63. [AnveVoice](https://anvevoice.app) 👉 Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier available.
+64. [AnveVoice](https://anvevoice.app) 👉 Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier available.
 
 ## 13. <a name='TeamWork'></a>🤝 Team & Work
 
@@ -3388,11 +3395,9 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 261. [ZeitPub](https://zeitpub.com/) 👉 Zeitpub | The future of publishing is here
 
 262. [Zevi](https://www.zevi.ai/) 👉 Zevi is an neural search engine for ecommerce brands. It enables website's search and merchandising functionality, improving user experience, and sales performance.
-     
-262. [Serplux](https://serplux.com/) 👉 Supercharge your SEO and content workflows with Serplux's AI-powered agents. Automate insights, accelerate organic growth, and unlock revenue - all without lifting a finger.
+263. [Serplux](https://serplux.com/) 👉 Supercharge your SEO and content workflows with Serplux's AI-powered agents. Automate insights, accelerate organic growth, and unlock revenue - all without lifting a finger.
 
-263. [toprank](https://github.com/nowork-studio/toprank) 👉 Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API; rewrites meta tags, generates JSON-LD schema markup, and ships fixes directly to WordPress, Strapi, Contentful, or Ghost. 107 stars.
-     
+264. [toprank](https://github.com/nowork-studio/toprank) 👉 Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API; rewrites meta tags, generates JSON-LD schema markup, and ships fixes directly to WordPress, Strapi, Contentful, or Ghost. 107 stars.
 
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
@@ -3611,17 +3616,17 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 27. [Suede](https://suedeai.ai) 👉 AI music and video generation with automatic on-chain ownership and licensing/royalty routing.
 28. [Soundful](https://soundful.com/) 👉 Soundful is an AI Music Generator platform that enables content creators and music artists to create unlimited tracks and monetize music.
 
-28. [Soundraw](https://soundraw.io/) 👉 Your personal AI music generator.
+29. [Soundraw](https://soundraw.io/) 👉 Your personal AI music generator.
 
-29. [Splash](https://www.splashmusic.com/) 👉 Bringing the joy of music making to everyone
+30. [Splash](https://www.splashmusic.com/) 👉 Bringing the joy of music making to everyone
 
-30. [Staccato](https://staccato.ai/) 👉 Generative AI for musicians & lyricists.
+31. [Staccato](https://staccato.ai/) 👉 Generative AI for musicians & lyricists.
 
-31. [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) 👉 Synthesizer V | Dreamtonics 株式会社
+32. [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) 👉 Synthesizer V | Dreamtonics 株式会社
 
-32. [Tunes For Tales](https://tunesfortales.fun/) 👉 Recommends songs that vibe with your story and emotions.
+33. [Tunes For Tales](https://tunesfortales.fun/) 👉 Recommends songs that vibe with your story and emotions.
 
-33. [AceTagGen](https://acetaggen.com) 👉 Structured prompt builder for Suno AI. 12-step tag picker with a few thousand tested tags and an open-source scorer on npm. Free core, no signup.
+34. [AceTagGen](https://acetaggen.com) 👉 Structured prompt builder for Suno AI. 12-step tag picker with a few thousand tested tags and an open-source scorer on npm. Free core, no signup.
 
 ## 20. <a name='Emails'></a>📥 Emails
 
