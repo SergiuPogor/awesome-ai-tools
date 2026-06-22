@@ -4016,6 +4016,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 15. [Draw3D](https://draw3d.online/) 👉 Transform your sketch into a photorealistic image.
 
+16. [Catoon](https://catoon.xyz) 👉 AI serial comic studio that turns novels and long stories into reusable characters, storyboards, speech bubbles, rendered panels, and export-ready comic chapters.
+
 ## 28. <a name='Finance'></a>💳 Finance
 
 1. [AlphaResearch](https://alpharesearch.io/) 👉 AlphaResearch helps investors extract information from unstructured texts, filings, earnings call transcripts, and much more.
